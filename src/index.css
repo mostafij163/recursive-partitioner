@@ -26,13 +26,13 @@
   gap: 0.2rem;
   flex-basis: 50%;
   justify-content: center;
+  max-height: 30px;
 }
 
 .btn {
   background-color: #111827;
   color: #ffffff;
   border-radius: 8px;
-  font-size: 1.1rem;
-  padding: 0.25rem 0.75rem;
+  padding: 0.25rem;
   text-align: center;
 }
